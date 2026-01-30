@@ -98,11 +98,10 @@ I combine technical rigor with a collaborative spirit. My journey involves not j
     * Developed discipline, rigor, and resilience.
 
 ---
-
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shirotempestx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Yahya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shirotempestx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yahya's GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirotempestx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
@@ -110,9 +109,8 @@ I combine technical rigor with a collaborative spirit. My journey involves not j
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shirotempestx&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Shirotempestx&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
-
 ---
 
 <div align="center">
