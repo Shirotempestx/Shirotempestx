@@ -1,19 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hello%2C+World!+I'm+Yahya.;Full-Stack+Developer.;Laravel+%26+React+Enthusiast.;Always+Learning." alt="Typing SVG" />
-</div>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hello%2C+World!+I'm+Yahya.;Full-Stack+Developer.;Laravel+%26+React+Enthusiast.;Always+Learning.)
 
 <br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yahya-el-khazraoui/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yahya.elkhazraoui@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yahya.digital">
-    <img src="https://img.shields.io/badge/Portfolio-20C20E?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-el-khazraoui/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahya.elkhazraoui@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-20C20E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yahya.digital)
+
 </div>
 
 <hr/>
@@ -32,7 +26,7 @@ I'm a **Full-Stack Developer** based in Casablanca. I don't just write code; I b
 ### 💻 The Stack (Animated)
 
 <div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="7" width="100%">
+  <marquee behavior="scroll" direction="left" scrollamount="8" width="100%">
     <img src="https://skillicons.dev/icons?i=react,laravel,php,python,cs,dotnet,js,html,css,tailwind,mysql,mongodb,docker,git,github,vscode,linux,figma,postman" />
   </marquee>
 </div>
@@ -41,19 +35,14 @@ I'm a **Full-Stack Developer** based in Casablanca. I don't just write code; I b
 
 ### 📊 GitHub Activity
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.demolab.com/api?username=Shirotempestx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=Shirotempestx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Shirotempestx&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Streak" />
+
+![GitHub Stats](https://github-readme-stats.demolab.com/api?username=Shirotempestx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true)
+
+![Top Langs](https://github-readme-stats.demolab.com/api/top-langs/?username=Shirotempestx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8)
+
+![Streak](https://github-readme-streak-stats.demolab.com/?user=Shirotempestx&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
 </div>
 
 ---
