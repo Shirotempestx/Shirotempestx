@@ -3,12 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hello%2C+World!+I'm+Yahya.;Full-Stack+Developer.;Laravel+%26+React+Enthusiast.;Always+Learning." alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shirotempestx&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
@@ -36,12 +30,12 @@ I'm a **Full-Stack Developer** based in Casablanca. I don't just write code; I b
 
 ---
 
-### 💻 The Stack
+### 💻 The Stack (Animated)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,laravel,php,python,cs,dotnet,js,html,css,tailwind&perline=10" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,vscode,linux,figma,postman&perline=9" />
+  <marquee behavior="scroll" direction="left" scrollamount="7" width="100%">
+    <img src="https://skillicons.dev/icons?i=react,laravel,php,python,cs,dotnet,js,html,css,tailwind,mysql,mongodb,docker,git,github,vscode,linux,figma,postman" />
+  </marquee>
 </div>
 
 ---
@@ -51,10 +45,10 @@ I'm a **Full-Stack Developer** based in Casablanca. I don't just write code; I b
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shirotempestx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+      <img src="https://github-readme-stats.demolab.com/api?username=Shirotempestx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
     </td>
     <td align="center" width="50%">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirotempestx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
+      <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=Shirotempestx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
     </td>
   </tr>
 </table>
